@@ -1,3 +1,10 @@
 student, assignment, submission status
 here, Shell Navigation, submitted
+Tito, Redirection I/O, not submitted
+Hyecinte, Redirection I/O, not submitted
+Kami, Redirection I/O, submitted
+Karabo, shell permissions, submitted
 Noel, Shell Navigation, not submitted
+Mussa, shell Navigation, submitted
+
+
